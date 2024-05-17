@@ -1,24 +1,24 @@
 {
   "basics": {
-    "name": "Richard Hendriks",
+    "name": "Eduardo Iraheta",
     "label": "Programmer",
     "picture": "",
-    "email": "richard@valley.com",
-    "phone": "(912) 555-4321",
-    "website": "http://richardhendricks.com",
-    "summary": "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+    "email": "eduardoiraheta87@icloud.com",
+    "phone": "(503) 6069 7187",
+    "website": "",
+    "summary": "Eduardo Iraheta de Izalco. Estudia en la Universidad de sonsonate (USO)"'  
+      "location": {
+      "address": "calle a la estación de izalco, sonsonate",
+      "postalCode": "02306",
+      "city": "Izalco",
+      "countryCode": "SO",
+      "region": "Sonsonate"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "neutralthoughts",
-        "url": ""
+        "network": "Instagram",
+        "username": "eduardo.iraheta.7545",
+        "url": "https://www.instagram.com/eduardo.iraheta.7545?igsh=bnjkbnpobnBmJ3&utm_source=gr"
       },
       {
         "network": "SoundCloud",
